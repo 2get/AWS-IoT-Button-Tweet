@@ -1,6 +1,7 @@
 # AWS IoT Button Tweet for Node
 
 ```
+npm install
 zip -r index.zip index.js node_modules
 ```
 
